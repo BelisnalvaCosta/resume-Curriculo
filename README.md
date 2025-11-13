@@ -1,9 +1,13 @@
 # Template de Currículo 
 
-## Portfólio - dando continuidade aos desafios do Campus Expert 11.
+## Portfólio 
 
 Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso, com Venilton FalvoJr.
 O Passo a Passo em Tempo Real".
 Este projeto tem um objetivo em fazer um currículo online de fácil acesso e poder enviá-lo para qualquer pessoal ou RH.
 
-![RESUME](https://github.com/user-attachments/assets/ec1b036e-4364-4803-a13f-5d8d014010ec) (https://belisnalvacosta.github.io/resume-Curriculo/)
+<img width="1187" height="821" alt="image" src="https://github.com/user-attachments/assets/5c066537-e16a-481a-8016-4a716008c78a" />
+
+
+![RESUME](="https://github.com/user-attachments/assets/12be9461-bd8d-455e-a2e0-bf1165f52ae8")
+
