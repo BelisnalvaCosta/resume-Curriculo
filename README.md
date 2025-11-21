@@ -6,6 +6,6 @@ Template em HTML e CSS para um breve hands on durante a Master Class "Criando um
 O Passo a Passo em Tempo Real".
 Este projeto tem um objetivo em fazer um currículo online de fácil acesso e poder enviá-lo para qualquer pessoal ou RH.
 
-<img width="526" height="835" alt="resume-update" src="https://github.com/user-attachments/assets/7bebedd9-a516-4b12-93ee-863dd555dd04" />
+<img width="772" height="836" alt="curric-Bella-atualizado" src="https://github.com/user-attachments/assets/4ccdcb85-c687-4a59-9455-a83efe78084a" />
 
 Currículo atualizado com mais informações (bem datalhado).
